@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tab_top"
+        android:title="Top Headlines"
+        android:icon="@drawable/ic_trending_up_black_24dp"
+        />
+
+    <item
+        android:id="@+id/tab_everything"
+        android:icon="@drawable/ic_everything_black_24dp"
+        android:title="Everything"/>
+
+    <item
+        android:id="@+id/tab_sources"
+        android:icon="@drawable/ic_sources_black_24dp"
+        android:title="Sources"/>
+
+</menu>
